@@ -1,0 +1,4 @@
+# ignore all tmp from log
+log/*.tmp
+#ignore temp
+temp/
